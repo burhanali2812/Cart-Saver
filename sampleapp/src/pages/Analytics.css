@@ -1,0 +1,51 @@
+.analytics-container {
+    padding: 30px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .analytics-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #4a90e2;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .recharts-cartesian-axis-line,
+  .recharts-cartesian-axis-tick {
+    stroke: #ddd;
+  }
+  
+  .recharts-tooltip {
+    border-radius: 6px;
+    font-size: 14px;
+    padding: 10px;
+  }
+  
+  .recharts-tooltip-item {
+    margin-bottom: 5px;
+  }
+  
+  .recharts-line {
+    stroke-width: 2px;
+  }
+  
+  .recharts-line-activity {
+    stroke: #8884d8;
+  }
+  
+  .recharts-line-purchases {
+    stroke: #82ca9d;
+  }
+  
+  .recharts-legend-item {
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .recharts-legend-item-text {
+    text-transform: capitalize;
+  }
+  
